@@ -11,3 +11,5 @@ Nous nous sommes d'abord focus sur l'implémentation de la partie physique (grav
 Chat grin était au départ penser comme un chat perdu essayant de retrouver son foyer. Cependant, au fur et à mesure du level design (l'ascension, les capacités débloquées comme le double saut, le dash) nous nous sommes dit que ça correspondait plus à la montée au paradis. C'est pourquoi nous avons choisi de mettre l'arrivée dans les nuages afin de sous-entendre cette fin.
 
 [Version jouable ici](https://www.lexaloffle.com/bbs/?pid=150203#p)
+
+![chatgrin](https://github.com/user-attachments/assets/1e398c40-0ac4-41b5-ba8c-ca319be9928c)
